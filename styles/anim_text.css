@@ -1,0 +1,23 @@
+.wrapper{
+  display: flex;
+}
+.wrapper .static-txt{
+  color: #fff;
+  font-size: 60px;
+  font-weight: 400;
+}
+.wrapper .dynamic-txts{
+  margin-left: 15px;
+  height: 90px;
+  line-height: 90px;
+  overflow: hidden;
+}
+.dynamic-txts li{
+  list-style: none;
+  color: #FC6D6D;
+  font-size: 60px;
+  font-weight: 500;
+  position: relative;
+  top: 0;
+  animation: slide 12s steps(4) infinite;
+}

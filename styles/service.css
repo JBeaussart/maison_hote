@@ -1,0 +1,47 @@
+.services {
+  background: #111;
+}
+
+.heading.white {
+  color: #fff;
+}
+
+.services .content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.services .content .servicesBx {
+  padding: 40px 20px;
+  background: #222;
+  color: #fff;
+  max-width: 340px;
+  margin: 20px;
+  text-align: center;
+  transition: all 0.5s ease-out;
+}
+
+.services .content .servicesBx:hover {
+  color: black;
+}
+.services .content .servicesBx:hover {
+  background: #FC6D6D;
+}
+
+.services .content .servicesBx img {
+  max-width: 180px;
+  transition: all 0.5s ease-out;
+}
+
+.services .content .servicesBx img {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#html_css {
+  max-width: 230px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}

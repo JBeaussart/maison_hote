@@ -1,0 +1,46 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contentBx {
+  padding-right: 30px;
+  line-height: 30px;
+}
+
+.contentBx h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.w50 {
+  min-width: 50%;
+}
+
+.slogan-about {
+  font-size: 20px;
+}
+
+.about-img {
+  position: relative;
+  width: 280px;
+}
+
+.img-medical {
+  position: absolute;
+  top: 100px;
+  right: 450px;
+}
+
+.img-dev {
+  position: absolute;
+  top: 110px;
+  right: 0px;
+}
+
+.img-arrow {
+  position: absolute;
+  width: 130px;
+  top: 190px;
+  right: 310px;
+}
