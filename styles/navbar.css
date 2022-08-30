@@ -28,7 +28,7 @@ header .logo {
 }
 
 header .logo:hover {
-  color: #FC6D6D;
+  color: #9fc292;
 }
 
 header.sticky .logo {
@@ -73,7 +73,7 @@ header.sticky ul li a {
 /* UNDERLINE LEFT TO RIGHT */
 
 .link:hover {
-  color: #FC6D6D;
+  color: #9fc292;
 }
 
 .link:after{
@@ -83,7 +83,7 @@ header.sticky ul li a {
   display: block;
   margin-top: 5px;
   right: 0;
-  background: #FC6D6D;
+  background: #9fc292;
   transition: width .2s ease;
   -webkit-transition: width .4s ease;
 }
@@ -91,5 +91,5 @@ header.sticky ul li a {
 .link:hover:after{
   width: 100%;
   left: 0;
-  background: #FC6D6D;
+  background: #9fc292;
 }
