@@ -3,7 +3,7 @@
 }
 
 .contact {
-  background: #111;
+  background: #9fc292;
   min-width: 40%;
   position: relative;
 }
@@ -40,6 +40,6 @@
 
 .box .text h3 {
   font-weight: 500;
-  color: #FC6D6D;
+  color: #00480d;
   margin-bottom: 0;
 }
